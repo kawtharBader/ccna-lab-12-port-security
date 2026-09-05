@@ -109,7 +109,7 @@ Security Violation Count   : 0
 
 This confirmed that PC0 was successfully registered as the authorized device on `Fa0/1`.
 
-![Port Security Verification](images/sticky-mac.png)
+![Port Security Verification](images/Port Security Verification.png)
 
 ## Security Violation Test
 
@@ -145,7 +145,7 @@ Security Violation Count   : 1
 
 The switch also generated a security violation message indicating that an unauthorized MAC address was detected on `FastEthernet0/1`.
 
-![Security Violation](images/violation.png)
+![Security Violation](images/Security Violation.png)
 
 ## Why Port Security Blocked the Device
 
