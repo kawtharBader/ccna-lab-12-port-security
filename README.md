@@ -1,4 +1,3 @@
-````markdown
 # CCNA Lab 10 – Port Security
 
 ## Overview
@@ -214,6 +213,3 @@ This command was used to verify:
 
 **Kawthar Bader**
 Computer Networks Student | CCNA Learner | Building Networking Labs
-
-```
-```
