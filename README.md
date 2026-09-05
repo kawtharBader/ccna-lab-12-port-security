@@ -37,7 +37,7 @@ PC0 was initially connected to `Fa0/1`, which was configured as the secured port
 
 PC1 was connected to `Fa0/2` during the initial connectivity test.
 
-![Network Topology](images/topology.png)
+![Network Topology](images/Topology.png)
 
 ## IP Addressing
 
